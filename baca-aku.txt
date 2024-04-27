@@ -1,0 +1,9 @@
+login admin
+username : admin
+password: admin
+
+login petugas
+username : user
+password : user
+
+https://github.com/Bocchi2510/ujikom-php
